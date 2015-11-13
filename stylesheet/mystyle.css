@@ -81,7 +81,7 @@ ul.nav {
 	width: 64.379%;
 }
 ul.nav a {
-	background: url("../image/ornament.png") no-repeat 0 100%;
+	background: url("../image/butterfly.png") no-repeat 0 100%;
 	font: bold 14px/1.2 "Book Antiqua", "Palatino Linotype", Georgia, serif;
 	display: block;
 	text-align: center;
@@ -108,7 +108,7 @@ ul.nav i {
 	margin-bottom: 0.25em;
 }
 .main h2 {
-	background: url("../image/ornament.png") no-repeat 0 50%;
+	background: url("../image/butterfly.png") no-repeat 0 50%;
 	font-size: 1.4em;
 	text-transform: lowercase;
 	text-align: center;
@@ -152,7 +152,7 @@ li#f-winter {
 	margin-right: 0;
 }
 .footer {
-	background: url("../image/ornament.png") 50% 0 repeat-x;
+	background: url("../image/butterfly.png") 50% 0 repeat-x;
 	font-size: 12px;
 	text-align: center;
 	padding: 40px 0 20px;
